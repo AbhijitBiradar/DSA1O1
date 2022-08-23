@@ -99,6 +99,16 @@ JS Programms
 	
 	https://wikimass.com/js/common-programs
 	
+	https://www.w3schools.com/js/js_examples.asp
+
+	https://codescracker.com/js/program/index.htm
+
+	https://www.tutorialstonight.com/js/javascript-star-pattern
+
+	https://www.studyfame.com/javascript-program/
+
+	https://www.toolsqa.com/categories/javascript
+	
 --------------------------------------------------------------------------------------------------------------------------------	
 	
 JavaScript Tutorials
