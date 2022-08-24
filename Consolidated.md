@@ -158,6 +158,47 @@ JavaScript Tutorials
 	https://www.linkedin.com/posts/akshat-gupta-063909183_frontend-resources-google-drive-activity-6924610591173066752-v2bq/?utm_source=linkedin_share&utm_medium=android_app
 	
 ------------------------------------------------------------------------------------------------------------------------------	
+
+Additional JS Resources:
+
+https://github.com/priya42bagde/javascript-algorithms
+
+https://github.com/priya42bagde/javascript-questions
+
+https://github.com/priya42bagde/javascript-interview-questions
+
+https://github.com/priya42bagde/33-js-concepts
+
+https://github.com/priya42bagde/javascript-interview-questions-1
+
+https://github.com/priya42bagde/myDSA_CodingSolutions
+
+https://github.com/priya42bagde/javascript-interview-questions-2
+
+https://github.com/priya42bagde/123-Essential-JavaScript-Interview-Questions
+
+https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions
+
+https://github.com/priya42bagde/The-Complete-FAANG-Preparation
+
+https://github.com/priya42bagde/DSA_Theory_Notes
+
+https://github.com/priya42bagde/DSA_Theory_Notes
+
+https://github.com/priya42bagde/javascriptDocuments
+
+https://github.com/priya42bagde/You-Dont-Know-JS
+
+https://github.com/priya42bagde/JavaScript-A-Z-Notes
+
+https://github.com/priya42bagde/frontend-system-design
+
+https://github.com/priya42bagde/javascript-code-challenges
+
+https://github.com/priya42bagde/Algorithms-and-Data-Structures
+
+
+--------------------------------------------------------------------------------------------------------------------------------
 	
 DS & Algo
 		CP
