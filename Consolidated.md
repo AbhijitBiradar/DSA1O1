@@ -27,62 +27,6 @@ Java New Features
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-WebDriverIO
-
-	https://www.youtube.com/playlist?list=PLFGoYjJG_fqqswF8qDdWNG3b-BtZfiqQn
-	
-	https://www.youtube.com/playlist?list=PL6AdzyjjD5HBbt9amjf3wIVMaobb28ZYN
-	
-	https://www.youtube.com/playlist?list=PL6flErFppaj3Cjikm_8wHU-I-3V1UhYq-
-	
-	https://www.youtube.com/playlist?list=PLBNb67lT6eELvpDN20XpJJ89XFn-j-gcA
-	
-	https://www.youtube.com/playlist?list=PLGk7ftfMz7jbZcArQU894rAfo6B1PbXbG
-	
-	https://webdriver.io/
-	
-	https://webdriver.io/docs/api/
-	
-	https://www.lambdatest.com/blog/how-webdriverio-uses-selenium-locators/
-	
-	https://webdriver.io/docs/selectors/
-	
-	https://webdriver.io/versions/
-	
-	https://webdriver.io/docs/api/expect-webdriverio/
-	
-	https://webdriver.io/docs/api/element/waitUntil/
-	
-	https://webdriver.io/docs/selenium-standalone-service/
-	
-	https://webdriver.io/docs/configurationfile/
-	
-	https://webdriver.io/docs/allure-reporter/
-	
-	https://www.udemy.com/join/login-popup/?next=/course/webdriverio-tutorial-nodejs-javascript/learn/lecture/25707132#overview
-	
-	https://www.youtube.com/watch?v=du2Jnm-TzJc
-	
---------------------------------------------------------------------------------------------------------------------------------
-
-CucumberJS	
-
-	https://www.testim.io/blog/cucumber-js-for-bdd-an-introductory-tutorial-with-examples/
-	
-	https://www.testim.io/blog/detailed-introduction-javascript-bdd/
-	
-	https://www.lambdatest.com/blog/cucumberjs-tutorial-selenium/
-	
-	https://github.com/cucumber/cucumber-js
-	
-	https://modernweb.com/bdd-in-javascript-with-cucumberjs/
-	
-	https://www.thinkcode.se/blog/2018/02/07/getting-started-with-cucumber-for-javascript
-	
-	https://docs.getxray.app/display/XRAY/Testing+Node.js+apps+using+Cucumber.js+in+JavaScript
-	
--------------------------------------------------------------------------------------------------------------------------------
-
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -308,45 +252,7 @@ DS & Algo
 			
 	Automation Tools
 	
-		Cypress
 		
-			https://www.udemy.com/join/login-popup/?next=/course/cypress-tutorial/learn/lecture/15647598#announcements
-			
-			https://www.youtube.com/playlist?list=PLFGoYjJG_fqoxTBJAUYw_poyBh0DI78HV
-			
-			https://www.youtube.com/playlist?list=PLMZdod-kiMhKiRztQX_rng7EfcI5OteMR
-			
-			https://www.youtube.com/playlist?list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb
-			
-			https://www.youtube.com/playlist?list=PLN9RL2PyZc184ita-eXbAMlErM0eVNUMj
-			
-			https://www.youtube.com/playlist?list=PLP9o9QNnQuAYYRpJzDNWpeuOVTwxmIxcI
-			
-			https://www.cypress.io/
-			
-			https://www.toolsqa.com/cypress-tutorial/
-			
-			https://docs.cypress.io/guides/guides/launching-browsers#Chrome-Browsers
-			
-			https://github.com/stars/rajatt95/lists/cypress-automation-frameworks
-			
-			https://rahulshettyacademy.com/seleniumPractise/#/
-			
-			https://rahulshettyacademy.com/practice-project
-			
-			https://rahulshettyacademy.com/AutomationPractice/
-			
-		
-		Playwright
-		
-			https://www.youtube.com/playlist?list=PL699Xf-_ilW7EyC6lMuU4jelKemmS6KgD
-			
-			https://www.youtube.com/playlist?list=PLFGoYjJG_fqrjcgRUcc2ubbZGtbRcC6W8
-			
-			https://www.youtube.com/playlist?list=PL8VbCbavWfeG6yNh-dtRccLKXWewsvyK8
-			
-			https://github.com/rajatt95/Playwright_JS/
-			
 			
 		REST Assured
 		
